@@ -41,7 +41,7 @@ for(int i=0; i<list.size(); i++)
 cout<<endl<<i+1<<" "<<list[i];
 }cout<<endl;
 }else{
-cout<<"No items to buy"<<endl;
+cout<<"No items to buy!"<<endl;
 return 0;}
 return 0;}
 
